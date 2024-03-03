@@ -1,0 +1,18 @@
+package org.example;
+
+public class Sumador {
+
+    public static void main(String[] args){
+        int a = 10 ;
+        int b = 15 ;
+
+        int suma;
+
+        if (a > 0){
+            suma = a + b ;
+        } else {
+            suma = b ;
+        }
+    }
+
+}
